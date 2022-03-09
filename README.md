@@ -13,7 +13,7 @@
 Клонировать репозиторий
     
     git clone git@github.com:avagners/flash_card_project.git
-    cd api_final_yatube
+    cd flash_card_project
 
 Cоздать и активировать виртуальное окружение:
 
