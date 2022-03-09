@@ -1,6 +1,7 @@
-from tkinter import Button, PhotoImage, Tk, Canvas
-import pandas
 import random
+from tkinter import Button, Canvas, PhotoImage, Tk
+
+import pandas
 
 BACKGROUND_COLOR = "#B1DDC6"
 current_card = {}
